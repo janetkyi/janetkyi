@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Boring science- for everyone who hates science 
+subtitle: it's a good read i promise you 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -14,23 +14,23 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ## Here is a secondary heading
 
-Here's a useless table:
+Here's a useless table (disclosure none of this is factual info):
 
-| Number | Next number | Previous number |
+| How many people care | Science Majors | Non-science |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Boomers | 40% | 0% |
+| Gen X | 50% | 10% |
+| Millenials | 79.5%  | 20.5% |
+| Gen Z | 99.9% | .1% |
 
 
-How about a yummy crepe?
+What life was like before COVID-19
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe]("/assets/img/concert.jpg"){: .mx-auto.d-block :}
 
-It can also be centered!
+Life with COVID-19!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe]("/assets/img/covid.jpg"){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
