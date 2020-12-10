@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What's so cool about Janet 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Janet Kyi and I'm a junior majoring in biology with a minor in public health on the premed track 
+Here's some fun facts about me !
+- I can play 6 instruments- guess which ones
+- I'm a diehard baseball fan (LGM) 
+- I can not cook for the life of me (I once burned an egg- do what you want with that information)
+- I was born and raised in New York City! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Well there's a lot more to me than those simple facts so if you want to know more just hmu we can have a nice conversation about how the Mets will once again fail next season 
