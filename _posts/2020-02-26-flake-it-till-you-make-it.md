@@ -3,7 +3,7 @@ layout: post
 title: So... Why Do We Care? 
 subtitle: COVID-19 origins 
 cover-img: /assets/img/nyc.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/rona.png
 share-img: /assets/img/rona.jpg
 tags: [books, test]
 ---
