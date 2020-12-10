@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boring science- for everyone who hates science 
+title: Boring science for everyone who hates science 
 subtitle: it's a good read i promise you 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -16,12 +16,12 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 Here's a useless table (disclosure none of this is factual info):
 
-| How many people care | Science Majors | Non-science |
+| How many people care | Science Majors | Nonscience |
 | :------ |:--- | :--- |
-| Boomers | 40% | 0% |
-| Gen X | 50% | 10% |
-| Millenials | 79.5%  | 20.5% |
-| Gen Z | 99.9% | .1% |
+| Boomers | 40 | 0 |
+| Gen X | 50 | 10 |
+| Millenials | 79.5  | 20.5 |
+| Gen Z | 99.9 | .1 |
 
 
 What life was like before COVID-19
