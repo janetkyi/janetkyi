@@ -8,11 +8,11 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This is a post to talk about why we care about COVID, from a public health and biology standpoint. Many people might find this boring so if you don't like science skip this you'll be bored out of mind 
 
-**Here is some bold text**
+**So who cares?**
 
-## Here is a secondary heading
+## NOT A LOT OF PEOPLE DO 
 
 Here's a useless table (disclosure none of this is factual info):
 
