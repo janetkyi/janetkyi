@@ -1,7 +1,7 @@
 ---
 layout: post
-title: So... Why Do We Care? 
-subtitle: COVID-19 origins 
+title: So Why Do We Care? 
+subtitle: COVID19 origins 
 cover-img: /assets/img/nyc.jpg
 thumbnail-img: /assets/img/rona.jpg
 share-img: /assets/img/rona.jpg
