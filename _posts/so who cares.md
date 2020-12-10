@@ -26,11 +26,11 @@ Here's a useless table (disclosure none of this is factual info):
 
 What life was like before COVID-19
 
-![Crepe]("/assets/img/concert.jpg"){: .mx-auto.d-block :}
+![Crepe](https://viewofthearts.files.wordpress.com/2019/06/img_2379.jpg){: .mx-auto.d-block :}
 
 Life with COVID-19!
 
-![Crepe]("/assets/img/covid.jpg"){: .mx-auto.d-block :}
+![Crepe](https://images.theconversation.com/files/332607/original/file-20200505-83757-s7cflj.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
